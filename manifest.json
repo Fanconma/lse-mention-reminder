@@ -1,0 +1,12 @@
+{
+    "entry": "mention-reminder.js",
+    "name": "MentionReminder",
+    "version": "1.0.0",
+    "author": "Fanconma",
+    "type": "lse-quickjs",
+    "dependencies": [
+        {
+            "name": "legacy-script-engine-quickjs"
+        }
+    ]
+}
